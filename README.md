@@ -26,4 +26,4 @@ Aprenderás a controlar el flujo de los datos, mediante condicionales, bucles y 
 ## Control de flujo
 
 ¿Que es una estructura de datos?¿Cómo pueden ayudarme a mejorar la administración de mis datos?
-* [Arrays, Listas]()
+* [Arrays, Listas](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/estructuras%20de%20datos/arrays_lists.dart)
