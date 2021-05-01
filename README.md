@@ -22,3 +22,8 @@ Aprenderás a controlar el flujo de los datos, mediante condicionales, bucles y 
 * [ciclo for y for each](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/control%20de%20flujo/ciclo_for_for_each.dart)
 * [break y continue](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/control%20de%20flujo/break_continue.dart)
 * [asserts](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/control%20de%20flujo/assert_example.dart)
+
+## Control de flujo
+
+¿Que es una estructura de datos?¿Cómo pueden ayudarme a mejorar la administración de mis datos?
+* [Arrays, Listas]()
