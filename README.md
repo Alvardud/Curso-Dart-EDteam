@@ -13,7 +13,8 @@ Aprenderás los conceptos introductorios de Dart, su historia y sus principales 
 * [Tipos de Variables](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/550fb91e9914a6102e9284a51d9645e889d26c89/bin/main.dart)
 * [Operadores I](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/962d431d163e49c454ec252a7858e89e53f6a674/bin/main.dart)
 
-## Dart básico
+## Control de flujo
 
 Aprenderás a controlar el flujo de los datos, mediante condicionales, bucles y ciclos.
 * [Sentencias if](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/control%20de%20flujo/sentencia_if.dart)
+* [Switch case](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/control%20de%20flujo/switch_case.dart)
