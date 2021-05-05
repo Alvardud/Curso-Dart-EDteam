@@ -29,3 +29,4 @@ Aprenderás a controlar el flujo de los datos, mediante condicionales, bucles y 
 * [Arrays, Listas](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/estructuras%20de%20datos/arrays_lists.dart)
 * [Mapas](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/estructuras%20de%20datos/mapas.dart)
 * [Queue](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/estructuras%20de%20datos/queue.dart)
+* [LinkedList]()
