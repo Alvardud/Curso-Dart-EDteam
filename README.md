@@ -1,6 +1,4 @@
 # Curso Dart EDTeam
-Curso online de flutter **#quedateencasa**
-
 ![](image_readme/image.png)
 
 En este curso se vera desde cero el lenguaje de programacion Dart
@@ -23,7 +21,7 @@ Aprenderás a controlar el flujo de los datos, mediante condicionales, bucles y 
 * [break y continue](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/control%20de%20flujo/break_continue.dart)
 * [asserts](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/control%20de%20flujo/assert_example.dart)
 
-## Control de flujo
+## Estructura de datos
 
 ¿Que es una estructura de datos?¿Cómo pueden ayudarme a mejorar la administración de mis datos?
 * [Arrays, Listas](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/estructuras%20de%20datos/arrays_lists.dart)
