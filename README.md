@@ -30,3 +30,8 @@ Aprenderás a controlar el flujo de los datos, mediante condicionales, bucles y 
 * [LinkedList](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/estructuras%20de%20datos/linked_list.dart)
 * [Set](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/estructuras%20de%20datos/set.dart)
 * [Enum](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/estructuras%20de%20datos/enum_collection.dart)
+
+## Funciones de alto orden
+
+¿Qué es una función? Aprenderás a modularizar nuestros programas a través de las funciones y procedimientos.
+* [Funciones y procedimientos]()
