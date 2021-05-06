@@ -34,4 +34,4 @@ Aprenderás a controlar el flujo de los datos, mediante condicionales, bucles y 
 ## Funciones de alto orden
 
 ¿Qué es una función? Aprenderás a modularizar nuestros programas a través de las funciones y procedimientos.
-* [Funciones y procedimientos]()
+* [Funciones y procedimientos](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/funciones%20de%20alto%20orden/funciones_procedimientos.dart)
