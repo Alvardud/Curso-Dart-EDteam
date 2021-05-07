@@ -37,3 +37,4 @@ Aprenderás a controlar el flujo de los datos, mediante condicionales, bucles y 
 * [Funciones y procedimientos](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/funciones%20de%20alto%20orden/funciones_procedimientos.dart)
 * [Funciones anonimas](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/funciones%20de%20alto%20orden/funciones_anonimas.dart)
 * [Funciones anonimas](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/funciones%20de%20alto%20orden/funciones_flecha.dart)
+* [Typedef](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/funciones%20de%20alto%20orden/typedef.dart)
