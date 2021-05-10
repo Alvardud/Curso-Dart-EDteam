@@ -47,3 +47,4 @@ Aprenderás a implementar las nociones del paradigma de “programación orienta
 * [Constructores](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/programacion%20orientada%20a%20objetos/constructores.dart)
 * [Getters y Setters](https://github.com/Alvardud/Curso-Dart-EDTeam/tree/master/bin/programacion%20orientada%20a%20objetos/getters_setters)
 * [Herencia](https://github.com/Alvardud/Curso-Dart-EDTeam/tree/master/bin/programacion%20orientada%20a%20objetos/herencia)
+* [Interfaces](https://github.com/Alvardud/Curso-Dart-EDTeam/tree/master/bin/programacion%20orientada%20a%20objetos/interfaces)
