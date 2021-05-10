@@ -44,3 +44,4 @@ Aprenderás a controlar el flujo de los datos, mediante condicionales, bucles y 
 Aprenderás a implementar las nociones del paradigma de “programación orientado a objetos,” el paradigma que predomina en el lenguaje Dart.
 
 * [Clases](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/programacion%20orientada%20a%20objetos/clases.dart)
+* [Constructores](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/programacion%20orientada%20a%20objetos/constructores.dart)
