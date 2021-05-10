@@ -38,3 +38,9 @@ Aprenderás a controlar el flujo de los datos, mediante condicionales, bucles y 
 * [Funciones anonimas](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/funciones%20de%20alto%20orden/funciones_anonimas.dart)
 * [Funciones anonimas](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/funciones%20de%20alto%20orden/funciones_flecha.dart)
 * [Typedef](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/funciones%20de%20alto%20orden/typedef.dart)
+
+## Programacion Orientada a Objetos
+
+Aprenderás a implementar las nociones del paradigma de “programación orientado a objetos,” el paradigma que predomina en el lenguaje Dart.
+
+* [Clases](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/programacion%20orientada%20a%20objetos/clases.dart)
