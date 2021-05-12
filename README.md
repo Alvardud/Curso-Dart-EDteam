@@ -56,3 +56,4 @@ Aprenderás a utilizar y comprender algunas de las herramientas útiles que cont
 
 * [Operadores 2](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/dart%20tools%20y%20operadores/operadores2.dart)
 * [Operadocion en cascada](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/dart%20tools%20y%20operadores/cascada_operacion.dart)
+* [Spread Operator](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/dart%20tools%20y%20operadores/spread_operator.dart)
