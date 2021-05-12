@@ -55,3 +55,4 @@ Aprenderás a implementar las nociones del paradigma de “programación orienta
 Aprenderás a utilizar y comprender algunas de las herramientas útiles que contiene el lenguaje Dart.
 
 * [Operadores 2](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/dart%20tools%20y%20operadores/operadores2.dart)
+* [Operadocion en cascada](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/dart%20tools%20y%20operadores/cascada_operacion.dart)
