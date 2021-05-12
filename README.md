@@ -49,3 +49,9 @@ Aprenderás a implementar las nociones del paradigma de “programación orienta
 * [Herencia](https://github.com/Alvardud/Curso-Dart-EDTeam/tree/master/bin/programacion%20orientada%20a%20objetos/herencia)
 * [Interfaces](https://github.com/Alvardud/Curso-Dart-EDTeam/tree/master/bin/programacion%20orientada%20a%20objetos/interfaces)
 * [Mixins](https://github.com/Alvardud/Curso-Dart-EDTeam/tree/master/bin/programacion%20orientada%20a%20objetos/mixins)
+
+## Dart tools y Operadores
+
+Aprenderás a utilizar y comprender algunas de las herramientas útiles que contiene el lenguaje Dart.
+
+* [Operadores 2](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/dart%20tools%20y%20operadores/operadores2.dart)
