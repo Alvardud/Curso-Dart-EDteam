@@ -58,3 +58,9 @@ Aprenderás a utilizar y comprender algunas de las herramientas útiles que cont
 * [Operadocion en cascada](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/dart%20tools%20y%20operadores/cascada_operacion.dart)
 * [Spread Operator](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/dart%20tools%20y%20operadores/spread_operator.dart)
 * [Metadatos](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/dart%20tools%20y%20operadores/metadatas.dart)
+
+## Pub y la administración de librerias
+
+¿Cómo podemos utilizar librerías externas en nuestro código? Aprenderás a utilizar librerías de forma externa en tus aplicaciones y cómo gestionarlas.
+
+* [Adicionando libreria](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/pub%20y%20librerias/libreria.dart)
