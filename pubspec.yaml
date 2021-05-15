@@ -7,8 +7,6 @@ environment:
   sdk: '>=2.10.0 <3.0.0'
 
 dependencies:
-  firebase_messaging: 9.1.4
-  firebase_core: 1.1.1
   
 dev_dependencies:
   random_string: ^2.1.0
