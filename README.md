@@ -64,3 +64,4 @@ Aprenderás a utilizar y comprender algunas de las herramientas útiles que cont
 ¿Cómo podemos utilizar librerías externas en nuestro código? Aprenderás a utilizar librerías de forma externa en tus aplicaciones y cómo gestionarlas.
 
 * [Adicionando libreria](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/pub%20y%20librerias/libreria.dart)
+* [Script Shortcut](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/a19b7d8bf8f6fc6510ee8229e429f24df7162dc1/pubspec.yaml)
