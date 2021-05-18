@@ -74,5 +74,6 @@ Aprenderás a utilizar y comprender algunas de las herramientas útiles que cont
 * [Try Catch](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/administracion%20de%20errores/try_catch.dart)
 * [Throw](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/administracion%20de%20errores/throw_block.dart)
 * [Finally](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/administracion%20de%20errores/finally_block.dart)
+* [Test](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/test_file.dart)
 
 
