@@ -1,8 +1,8 @@
 extension on String {
-  int contarPuntos(String x) {
+  int contarPuntos() {
     int contador = 0;
-    for (int i = 0; i < x.length; i++) {
-      if (x[i] == '.') {
+    for (int i = 0; i < this.length; i++) {
+      if (this[i] == '.') {
         contador++;
       }
     }
@@ -12,5 +12,5 @@ extension on String {
 
 void main() {
   String nombrePuntos = "Alvaro...............";
-  print(nombrePuntos.contarPuntos(nombrePuntos));
+  print(nombrePuntos.contarPuntos());
 }
