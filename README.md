@@ -84,3 +84,4 @@ Aprenderás a utilizar y comprender algunas de las herramientas útiles que cont
 * [Elementos Genericos en Funciones y Colecciones](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/generecidad%20y%20extensiones/generecidad.dart)
 * [Generecidad en POO](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/generecidad%20y%20extensiones/generecidad_poo.dart)
 * [Extensiones](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/generecidad%20y%20extensiones/extensiones.dart)
+* [Extensiones sobre librerias](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/generecidad%20y%20extensiones/extensiones_libreria.dart)
