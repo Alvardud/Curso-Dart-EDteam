@@ -76,7 +76,6 @@ Aprenderás a utilizar y comprender algunas de las herramientas útiles que cont
 * [Finally](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/administracion%20de%20errores/finally_block.dart)
 * [Test](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/test_file.dart)
 
-
 ## Genéricos y Extensiones
 
 ¿Qué son los elementos Genéricos? ¿Cómo nos ayudan las extensiones? Aprenderás a implementar extensiones y elementos genéricos.
@@ -86,5 +85,12 @@ Aprenderás a utilizar y comprender algunas de las herramientas útiles que cont
 * [Extensiones](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/generecidad%20y%20extensiones/extensiones.dart)
 * [Extensiones sobre librerias](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/generecidad%20y%20extensiones/extensiones_libreria.dart)
 * [Extensiones genericas](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/generecidad%20y%20extensiones/extensiones_genericas.dart)
+
+## Programación asíncrona
+
+¿Qué es la programación asíncrona?¿Cómo este paradigma nos ayuda en el control de tareas pesadas?
+
+* [Timers](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/programacion%20asincrona/timers.dart)
+
 
 
