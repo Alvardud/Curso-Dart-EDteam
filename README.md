@@ -91,6 +91,4 @@ Aprenderás a utilizar y comprender algunas de las herramientas útiles que cont
 ¿Qué es la programación asíncrona?¿Cómo este paradigma nos ayuda en el control de tareas pesadas?
 
 * [Timers](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/programacion%20asincrona/timers.dart)
-
-
-
+* [Isolates](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/programacion%20asincrona/isolates.dart)
