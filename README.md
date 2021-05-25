@@ -100,3 +100,4 @@ Aprenderás a utilizar y comprender algunas de las herramientas útiles que cont
 ¿Qué es la seguridad nula? Aprenderás a implementar la característica de Null Safety en Dart y cómo migrar código antiguo a esta funcionalidad.
 
 * [Elementos Nulos](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/seguridad%20nula/elementos_nulos.dart)
+* [Asserts Asignacion](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/seguridad%20nula/asserts_asignacion.dart)
