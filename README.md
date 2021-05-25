@@ -94,3 +94,9 @@ Aprenderás a utilizar y comprender algunas de las herramientas útiles que cont
 * [Isolates](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/programacion%20asincrona/isolates.dart)
 * [Futures](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/programacion%20asincrona/futures.dart)
 * [Streams](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/programacion%20asincrona/streams.dart)
+
+## Seguridad Nula
+
+¿Qué es la seguridad nula? Aprenderás a implementar la característica de Null Safety en Dart y cómo migrar código antiguo a esta funcionalidad.
+
+* [Elementos Nulos](https://github.com/Alvardud/Curso-Dart-EDTeam/blob/master/bin/seguridad%20nula/elementos_nulos.dart)
