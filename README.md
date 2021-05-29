@@ -1,4 +1,4 @@
-# Curso Dart EDTeam
+# Curso Dart EDteam
 ![](image_readme/image.png)
 
 En este curso se vera desde cero el lenguaje de programacion Dart
